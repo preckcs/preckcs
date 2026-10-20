@@ -75,7 +75,7 @@ SaaS de **agendamento e gestão de consultórios** para profissionais de saúde 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=preckcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=pt-br" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=preckcs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=pt-br&hide_rank=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20Victor" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preckcs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=pt-br" />
 
 <img src="https://streak-stats.demolab.com?user=preckcs&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=pt_BR" />
